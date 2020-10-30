@@ -1,0 +1,4 @@
+- mail server & gui folders are packages which contains 
+classes of the project
+- you can find the complete project folders in 
+complete project.zip
